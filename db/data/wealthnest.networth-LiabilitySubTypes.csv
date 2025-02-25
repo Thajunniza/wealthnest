@@ -1,0 +1,5 @@
+ID,liabilityType_ID,title,descr
+HOME,MORTGAGE,Home Mortgage,"Loan for purchasing a residential property."
+CAR,MORTGAGE,Car Loan,"Loan for purchasing a car."
+PERSONAL,CREDIT_CARD,Personal Credit Card,"General credit card debt."
+STUDENT,CREDIT_CARD,Student Credit Card,"Credit card debt accumulated during student years."

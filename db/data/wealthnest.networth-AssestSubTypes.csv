@@ -1,0 +1,9 @@
+ID,assetType_ID,title,descr
+RES,CASH,Checking Account,"A checking account used for daily transactions."
+SAV,CASH,Savings Account,"A savings account with higher interest rates for savings."
+RES,RE,Residential,"Houses, apartments, condos, and other residential properties."
+COM,RE,Commercial,"Office buildings, retail spaces, and other commercial properties."
+LAND,RE,Land,"Vacant land, plots, and undeveloped properties."
+DOM,STK,Domestic Stocks,"Stocks listed in the home country stock exchanges."
+INTL,STK,International Stocks,"Stocks listed on foreign stock exchanges."
+DIV,STK,Dividend Stocks,"Stocks that pay dividends to shareholders."
