@@ -1,5 +1,5 @@
 ID,title,descr
 MORTGAGE,Mortgage,"Home loan obligations."
-CREDIT_CARD,Credit Card,"Outstanding credit card balances."
+CREDITCARD,Credit Card,"Outstanding credit card balances."
 LOAN,Loan,"Personal or student loan obligations."
 TAXES,Taxes,"Outstanding taxes owed to the government."
